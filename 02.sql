@@ -1,0 +1,1 @@
+ALTER TABLE clientes ADD data_ultima_compra date;

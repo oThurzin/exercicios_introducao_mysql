@@ -1,0 +1,1 @@
+SELECT uf FROM clientes WHERE RJ;
